@@ -1,5 +1,7 @@
 # brackets_interpretability
 
+*This project is part of the ARENA 2.0 curriculum.*
+
 We classify strings of parentheses ```(()())()``` into balanced and unbalanced. The parentheses are balanced if each opening bracket is matched with a closing bracket later in the string. For example, ```(())``` is balanced and ```(()``` is unbalanced. Ultimately, e use a transformer model of size XXX to solve this task.
 
 1. We come up with a simple algorithm on our own.
